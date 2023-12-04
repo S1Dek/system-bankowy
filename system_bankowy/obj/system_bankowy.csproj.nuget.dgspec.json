@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Studia\\WSB\\Przedmioty\\semestr 3\\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\\Projekt\\repo\\system-bankowy\\system_bankowy\\system_bankowy.csproj": {}
+  },
+  "projects": {
+    "H:\\Studia\\WSB\\Przedmioty\\semestr 3\\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\\Projekt\\repo\\system-bankowy\\system_bankowy\\system_bankowy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Studia\\WSB\\Przedmioty\\semestr 3\\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\\Projekt\\repo\\system-bankowy\\system_bankowy\\system_bankowy.csproj",
+        "projectName": "system_bankowy",
+        "projectPath": "H:\\Studia\\WSB\\Przedmioty\\semestr 3\\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\\Projekt\\repo\\system-bankowy\\system_bankowy\\system_bankowy.csproj",
+        "packagesPath": "C:\\Users\\Marcin\\.nuget\\packages\\",
+        "outputPath": "H:\\Studia\\WSB\\Przedmioty\\semestr 3\\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\\Projekt\\repo\\system-bankowy\\system_bankowy\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "H:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
