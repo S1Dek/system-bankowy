@@ -1,0 +1,14 @@
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\bin\Debug\net7.0\system_bankowy.exe
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\bin\Debug\net7.0\system_bankowy.deps.json
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\bin\Debug\net7.0\system_bankowy.runtimeconfig.json
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\bin\Debug\net7.0\system_bankowy.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\bin\Debug\net7.0\system_bankowy.pdb
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\system_bankowy.GeneratedMSBuildEditorConfig.editorconfig
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\system_bankowy.AssemblyInfoInputs.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\system_bankowy.AssemblyInfo.cs
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\system_bankowy.csproj.CoreCompileInputs.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\system_bankowy.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\refint\system_bankowy.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\system_bankowy.pdb
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\system_bankowy.genruntimeconfig.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\ref\system_bankowy.dll
