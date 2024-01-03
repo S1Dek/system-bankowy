@@ -1,18 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-<<<<<<< HEAD
 using System.Reflection;
 using system_bankowy;
-
-=======
 using System.IO;
 using System.Linq;
->>>>>>> 8a30dc1717d6a91b85094f495b20d9ca63f74e07
 class Program
 {
     static void Main()
     {
-<<<<<<< HEAD
         Menu showMenu = new Menu();
         string fileName = "login.txt";
         string filePath = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"..\..\..\", fileName));
@@ -31,7 +26,6 @@ class Program
                 Console.WriteLine("Błędne dane logowania. Spróbuj ponownie.");
             }
         }
-=======
         Console.WindowHeight = 20;
         Console.WindowWidth = 50;
 
@@ -388,6 +382,5 @@ class Program
             Console.WriteLine(); // Move to a new line after entering the password
             return password;
         }
->>>>>>> 8a30dc1717d6a91b85094f495b20d9ca63f74e07
     }
 }

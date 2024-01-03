@@ -12,3 +12,4 @@ H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech F
 H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\system_bankowy.pdb
 H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\system_bankowy.genruntimeconfig.cache
 H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\ref\system_bankowy.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\repo\system_bankowy\obj\Debug\net7.0\system_bankowy.sourcelink.json
