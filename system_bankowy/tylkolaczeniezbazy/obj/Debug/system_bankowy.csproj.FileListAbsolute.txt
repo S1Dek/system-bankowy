@@ -1,0 +1,141 @@
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.AssemblyReference.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.SuggestedBindingRedirects.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\obj\Debug\tylkolaczeniezbazy.exe.config
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.CoreCompileInputs.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\obj\Debug\tylkolaczeniezbazy.exe
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\obj\Debug\tylkolaczeniezbazy.pdb
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\tylkolaczeniezbazy.exe.config
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\tylkolaczeniezbazy.exe
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\tylkolaczeniezbazy.pdb
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\BouncyCastle.Cryptography.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\EntityFramework.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\EntityFramework.SqlServer.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\Google.Protobuf.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\K4os.Hash.xxHash.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\MySql.Data.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\MySql.Data.EntityFramework.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Buffers.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.IO.Pipelines.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Memory.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Numerics.Vectors.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\ZstdSharp.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\BouncyCastle.Cryptography.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\EntityFramework.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\EntityFramework.SqlServer.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\Google.Protobuf.pdb
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\Google.Protobuf.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\K4os.Hash.xxHash.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\MySql.Data.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\MySql.Data.EntityFramework.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Buffers.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.IO.Pipelines.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Memory.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Numerics.Vectors.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy\tylkolaczeniezbazy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.CopyComplete
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\tylkolaczeniezbazy.exe.config
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\tylkolaczeniezbazy.exe
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\tylkolaczeniezbazy.pdb
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\BouncyCastle.Cryptography.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\EntityFramework.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\EntityFramework.SqlServer.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\Google.Protobuf.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Hash.xxHash.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\MySql.Data.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\MySql.Data.EntityFramework.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Buffers.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.IO.Pipelines.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Memory.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Numerics.Vectors.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\ZstdSharp.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\BouncyCastle.Cryptography.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\EntityFramework.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\EntityFramework.SqlServer.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\Google.Protobuf.pdb
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\Google.Protobuf.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Hash.xxHash.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\MySql.Data.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\MySql.Data.EntityFramework.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Buffers.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.IO.Pipelines.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Memory.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Numerics.Vectors.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.AssemblyReference.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.SuggestedBindingRedirects.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\obj\Debug\tylkolaczeniezbazy.exe.config
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.CoreCompileInputs.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.CopyComplete
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\obj\Debug\tylkolaczeniezbazy.exe
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\tylkolaczeniezbazy — kopia\system_bankowy\tylkolaczeniezbazy\obj\Debug\tylkolaczeniezbazy.pdb
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\tylkolaczeniezbazy.exe.config
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\tylkolaczeniezbazy.exe
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\tylkolaczeniezbazy.pdb
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\BouncyCastle.Cryptography.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\EntityFramework.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\EntityFramework.SqlServer.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\Google.Protobuf.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Hash.xxHash.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\MySql.Data.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\MySql.Data.EntityFramework.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Buffers.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.IO.Pipelines.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Memory.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Numerics.Vectors.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\ZstdSharp.dll
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\BouncyCastle.Cryptography.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\EntityFramework.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\EntityFramework.SqlServer.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\Google.Protobuf.pdb
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\Google.Protobuf.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\K4os.Hash.xxHash.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\MySql.Data.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\MySql.Data.EntityFramework.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Buffers.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.IO.Pipelines.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Memory.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Numerics.Vectors.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.AssemblyReference.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.SuggestedBindingRedirects.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\obj\Debug\tylkolaczeniezbazy.exe.config
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.CoreCompileInputs.cache
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\obj\Debug\system_bankowy.csproj.CopyComplete
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\obj\Debug\tylkolaczeniezbazy.exe
+H:\Studia\WSB\Przedmioty\semestr 3\Programowanie obiektowe - dr inż. Wojciech Frohmberg L\Projekt\system_bankowy\system_bankowy\tylkolaczeniezbazy\obj\Debug\tylkolaczeniezbazy.pdb
