@@ -2,7 +2,7 @@
 
 # Pliki
 
-System Bankowy przechowuje Twoje dane w Twojej pliku txt, co oznacza, że wszystkie Twoje pliki są automatycznie zapisywane lokalnie i są dostępne **offline!**
+System Bankowy przechowuje Twoje dane w bazie danych sql
 
 ## Logowanie
 
