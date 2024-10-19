@@ -48,7 +48,6 @@ Schemat działania aplikacji
 Schemat blokowy poniżej przedstawia logikę działania aplikacji:
 
 ```mermaid
-Skopiuj kod
 graph LR
 A(START) --> B[Logowanie]
 B --> C{Logowanie}
@@ -66,11 +65,10 @@ X --> Z(STOP)
 # Technologie
 C# .NET
 Konsola
-Uruchomienie projektu
+
+# Uruchomienie projektu
 Aby uruchomić aplikację, sklonuj repozytorium i zbuduj projekt w Visual Studio:
 
-
-# Jak uruchomić
 > git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY>
 > cd <*nazwa katalogu*>
 > dotnet build
