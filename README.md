@@ -42,13 +42,3 @@ Aplikacja została zaprojektowana w sposób prosty i intuicyjny, aby ułatwić k
 # Technologie
 C# .NET 
 Entity Framework
-
-
-# Uruchomienie projektu
-
-Aby uruchomić aplikację, sklonuj repozytorium i zbuduj projekt w Visual Studio:
-|----------------|
-| clone https://github.com/S1Dek/system-bankowy |
-| cd  *lokalizacja pobrania*  |
-| dotnet build |
-| dotnet run |
