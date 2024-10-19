@@ -63,13 +63,13 @@ X --> Z(STOP)
 ```
 
 # Technologie
-C# .NET
-Konsola
+C# .NET, Entity Framework
+
 
 # Uruchomienie projektu
 Aby uruchomić aplikację, sklonuj repozytorium i zbuduj projekt w Visual Studio:
 
-> git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY>
+> git clone https://github.com/S1Dek/system-bankowy
 > cd <*nazwa katalogu*>
 > dotnet build
 > dotnet run
