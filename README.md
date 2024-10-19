@@ -70,9 +70,7 @@ C# .NET, Entity Framework
 Aby uruchomić aplikację, sklonuj repozytorium i zbuduj projekt w Visual Studio:
 |----------------|
 | clone https://github.com/S1Dek/system-bankowy |
-|----------------|
 | cd <*nazwa katalogu*> |
-|----------------|
 | dotnet build |
-|----------------|
 | dotnet run |
+|----------------|
