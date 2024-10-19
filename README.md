@@ -31,11 +31,12 @@ X --> Z(STOP)
 
 
 
-Bankowy System Konsolowy
-Opis projektu
+# Bankowy System Konsolowy
+
+# Opis projektu
 Projekt to aplikacja konsolowa stworzona w języku C# .NET, która symuluje system bankowy umożliwiający użytkownikom logowanie się oraz wykonywanie podstawowych operacji na koncie bankowym. Sterowanie odbywa się za pomocą klawiatury, gdzie strzałki w górę i w dół pozwalają na poruszanie się po menu i wybieranie dostępnych opcji.
 
-Główne funkcjonalności aplikacji obejmują:
+# Główne funkcjonalności aplikacji obejmują:
 
 Logowanie użytkownika - wprowadzenie poprawnych danych logowania umożliwia dostęp do systemu.
 Sprawdzanie stanu konta - użytkownik może sprawdzić aktualny stan swojego konta.
@@ -46,7 +47,7 @@ Aplikacja została zaprojektowana w sposób prosty i intuicyjny, aby ułatwić k
 Schemat działania aplikacji
 Schemat blokowy poniżej przedstawia logikę działania aplikacji:
 
-mermaid
+```mermaid
 Skopiuj kod
 graph LR
 A(START) --> B[Logowanie]
@@ -60,18 +61,17 @@ D --> X[Wyjdź z programu]
 F_1 -- udało się --> D{Wybór funkcji}
 F_2 -- udało się --> D{Wybór funkcji}
 X --> Z(STOP)
-Technologie
+```
+
+# Technologie
 C# .NET
 Konsola
 Uruchomienie projektu
 Aby uruchomić aplikację, sklonuj repozytorium i zbuduj projekt w Visual Studio:
 
-bash
-Skopiuj kod
-git clone <URL repozytorium>
-cd <nazwa katalogu>
-dotnet build
-dotnet run
-Autor
-[Twoje Imię] - [Twój GitHub]
-Taki opis powinien być klarowny i czytelny, przedstawiając zarówno działanie aplikacji, jak i sposób jej uruchomienia.
+
+# Jak uruchomić
+> git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY>
+> cd <*nazwa katalogu*>
+> dotnet build
+> dotnet run
